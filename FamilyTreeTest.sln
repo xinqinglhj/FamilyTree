@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyTreeTest", "FamilyTreeTest\FamilyTreeTest.csproj", "{52FAA52B-799C-4C59-A4BF-592440051E44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyTree", "FamilyTree\FamilyTree.csproj", "{AB885197-9E0B-43A1-8530-F619553C8288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52FAA52B-799C-4C59-A4BF-592440051E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FAA52B-799C-4C59-A4BF-592440051E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52FAA52B-799C-4C59-A4BF-592440051E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52FAA52B-799C-4C59-A4BF-592440051E44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB885197-9E0B-43A1-8530-F619553C8288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB885197-9E0B-43A1-8530-F619553C8288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB885197-9E0B-43A1-8530-F619553C8288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB885197-9E0B-43A1-8530-F619553C8288}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1436F82F-450F-43AF-858E-657A1C768A25}
+	EndGlobalSection
+EndGlobal
